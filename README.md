@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @BozhidarKostov92
-- 👀 I’m interested in programming languages and games.
+- 👀 I’m interested in programming languages.
 - 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ 2021 Goals: Start to work with Java in company.
 - 
-- 📫 How to reach me:                
+- 📫 Connect with me:                
 - Email - bozhidar.kostov92@gmail.com
 
 FaceBook - https://www.facebook.com/profile.php?id=100034881480919  (Bozhidar Kostov)
