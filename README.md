@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BozhidarKostov92
-- 👀 I’m interested in programming languages.
-- 🌱 I’m currently learning Java.
-- 💞️ 2021 Goals: Start to work with Java in company.
+- 👋 Hello guys.My name is Bozhidar Kostov.
+- 👀 I am interested in programming languages.
+- 🌱 I am currently learning Java.
+- 💞️ 2022 Goals: Move to Sofia.
 - 
 - 📫 Connect with me:                
 - Email - bozhidar.kostov92@gmail.com
