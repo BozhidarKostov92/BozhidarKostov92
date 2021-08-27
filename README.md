@@ -1,4 +1,4 @@
-- 👋 Hello guys.My name is Bozhidar Kostov.
+- 👋 Hello guys.
 - 👀 I am interested in programming languages.
 - 🌱 I am currently learning Java.
 - 💞️ 2022 Goals: Move to Sofia.
