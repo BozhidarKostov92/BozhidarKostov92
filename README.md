@@ -6,7 +6,7 @@
 - Email - bozhidar.kostov92@gmail.com
 
 <div align="left">
-  <a href="bozhidar.kostov92@gmail.com">
+  <a href=bozhidar.kostov92@gmail.com>
     <img align="left" width="110px" src="https://phantom-marca.unidadeditorial.es/47d85ac4e1a5e1368debf26999a6ae17/crop/0x0/1182x665/resize/1320/f/jpg/assets/multimedia/imagenes/2021/08/27/16300692928674.jpg" />
   </a>
   <br></br>
