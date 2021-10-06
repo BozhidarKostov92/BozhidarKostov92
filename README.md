@@ -22,10 +22,6 @@
 </div>
 <br></br>
 <br></br>
-<div align="left">
-  <img align="left" width="150" height="40" src="https://visitor-badge.glitch.me/badge?page_id=BozhidarKostov92">
-</div>
-<br></br>
 
 <div align="left">
   <img height="140" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BozhidarKostov92&layout=compact"/>
