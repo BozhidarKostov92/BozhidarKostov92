@@ -7,16 +7,11 @@
 - Email - bozhidar.kostov92@gmail.com
 
 Sololearn - Bozhidar Kostov
-
 YouTube channel - https://www.youtube.com/channel/UCjc5O4jmngC8Fym-CNsaNDQ
 
-<h5 align="center">
-  Connections:
-</h5>
-
-<div align="center">
-  <a href="bozhidar.kostov92@gmail.com">
-    <img align="center" width="40px" src="https://www.bulnews.bg/media/cache/article/uploads/16180e70d6d70b354ec63100e0ca5516.jpeg" />
+<div align="left">
+  <a href="https://www.youtube.com/channel/UCjc5O4jmngC8Fym-CNsaNDQ">
+    <img align="center" width="40px" src="https://www.techtipsmedia.com/wp-content/uploads/2018/01/new-youtube-logo-840x402.jpg" />
   </a>
   <br></br>
   <div align="center">
