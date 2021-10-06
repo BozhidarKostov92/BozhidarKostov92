@@ -1,4 +1,3 @@
-- 👀 I am interested in programming languages.
 - 🌱 I am currently learning Java from https://introprogramming.info/intro-java-book/read-online/ and https://softuni.bg/
 
 - 📫 Connect with me: 
