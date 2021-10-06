@@ -17,7 +17,7 @@
   <br></br>
   <div align="left">
   <a href="https://www.facebook.com/GamingWithBuJo/">
-    <img align="left" width="65px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDdmJImfFmpK0XslRkKyNiA4Rfi74SoQPP7Rk6ysn6obSYkO4WIQ7BroLF0O9Hyl16a5Q&usqp=CAU" />
+    <img align="left" width="55px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDdmJImfFmpK0XslRkKyNiA4Rfi74SoQPP7Rk6ysn6obSYkO4WIQ7BroLF0O9Hyl16a5Q&usqp=CAU" />
   </a>
 </div>
 <br></br>
