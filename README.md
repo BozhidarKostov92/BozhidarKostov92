@@ -16,7 +16,7 @@ YouTube channel - https://www.youtube.com/channel/UCjc5O4jmngC8Fym-CNsaNDQ
 
 <div align="center">
   <a href="https://www.facebook.com/GamingWithBuJo/">
-    <img align="center" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+    <img align="center" width="50px" src="https://www.savinglives5townscoalition.org/wp-content/uploads/2021/03/facebook_icono_despues2.jpg" />
   </a>
 </div>
 <br></br>
