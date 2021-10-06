@@ -5,10 +5,9 @@
 - 
 - 📫 Connect with me:                
 - Email - bozhidar.kostov92@gmail.com
-- 
 <div align="left">
   <a href="https://www.sololearn.com/profile/11827871/?ref=app">
-    <img align="left" width="50px" src="https://lh3.googleusercontent.com/proxy/ZolPvYpx8AJ21rM9odTq6zJgujVot8s681C5TOiDUZWOb_J2w81zz7KSmxGGYyiKWIxFOMPOxRO0ZGsTVzq1zoFjqKX__VGuU7yVafvuxGZDoeFKku45fDxG5qk6" />
+    <img align="left" width="70px" src="https://lh3.googleusercontent.com/proxy/ZolPvYpx8AJ21rM9odTq6zJgujVot8s681C5TOiDUZWOb_J2w81zz7KSmxGGYyiKWIxFOMPOxRO0ZGsTVzq1zoFjqKX__VGuU7yVafvuxGZDoeFKku45fDxG5qk6" />
   </a>
   <br></br>
 <div align="left">
@@ -23,16 +22,16 @@
 </div>
 <br></br>
 
-<div align="center">
-  <img align="center" width="150" height="40" src="https://visitor-badge.glitch.me/badge?page_id=BozhidarKostov92">
+<div align="left">
+  <img align="left" width="150" height="40" src="https://visitor-badge.glitch.me/badge?page_id=BozhidarKostov92">
 </div>
 <br></br>
 
-<div align="center">
+<div align="left">
   <img height="140" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BozhidarKostov92&layout=compact"/>
 </div>
 
-<div align="center">
+<div align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=BozhidarKostov92&count_private=true&true&hide=issues&show_icons=true" />
 </div>
 
