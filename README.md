@@ -2,8 +2,8 @@
 - 👀 I am interested in programming languages.
 - 🌱 I am currently learning Java from https://introprogramming.info/intro-java-book/read-online/ and https://softuni.bg/
 
-- 📫 Connect with me: 
-- Email - bozhidar.kostov92@gmail.com
+- 📫 Connect with me:
+- - Email - bozhidar.kostov92@gmail.com
 
 <div align="left">
   <a href="https://www.sololearn.com/profile/11827871/?ref=app">
