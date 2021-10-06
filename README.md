@@ -18,9 +18,6 @@ YouTube channel - https://www.youtube.com/channel/UCjc5O4jmngC8Fym-CNsaNDQ
   <a href="https://www.facebook.com/GamingWithBuJo/">
     <img align="center" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
   </a>
-  <a href="https://www.linkedin.com/in/lyubomir-kuzov-b89171219/">
-    <img align="center" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
 </div>
 <br></br>
 
