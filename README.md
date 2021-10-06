@@ -15,7 +15,7 @@ YouTube channel - https://www.youtube.com/channel/UCjc5O4jmngC8Fym-CNsaNDQ
 </h5>
 
 <div align="center">
-  <a href="https://www.facebook.com/lyubo.kuzov/">
+  <a href="https://www.facebook.com/GamingWithBuJo/">
     <img align="center" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
   </a>
   <a href="https://www.linkedin.com/in/lyubomir-kuzov-b89171219/">
@@ -25,7 +25,7 @@ YouTube channel - https://www.youtube.com/channel/UCjc5O4jmngC8Fym-CNsaNDQ
 <br></br>
 
 <div align="center">
-  <img align="center" width="150" height="40" src="https://visitor-badge.glitch.me/badge?page_id=LyubomirK99">
+  <img align="center" width="150" height="40" src="https://visitor-badge.glitch.me/badge?page_id=BozhidarKostov92">
 </div>
 <br></br>
 
