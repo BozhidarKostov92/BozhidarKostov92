@@ -8,7 +8,7 @@
 
 <div align="left">
   <a href="https://www.sololearn.com/profile/11827871/?ref=app">
-    <img align="left" width="50px" src="https://iconape.com/wp-content/png_logo_vector/sololearn-logo.png" />
+    <img align="left" width="70px" src="https://iconape.com/wp-content/png_logo_vector/sololearn-logo.png" />
   </a>
   <br></br>
    <br></br>
