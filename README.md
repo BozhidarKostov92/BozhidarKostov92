@@ -6,6 +6,11 @@
 - Email - bozhidar.kostov92@gmail.com
 
 <div align="left">
+  <a href="bozhidar.kostov92@gmail.com">
+    <img align="left" width="110px" src="https://phantom-marca.unidadeditorial.es/47d85ac4e1a5e1368debf26999a6ae17/crop/0x0/1182x665/resize/1320/f/jpg/assets/multimedia/imagenes/2021/08/27/16300692928674.jpg" />
+  </a>
+  <br></br>
+<div align="left">
   <a href="https://www.sololearn.com/profile/11827871/?ref=app">
     <img align="left" width="110px" src="https://lh3.googleusercontent.com/proxy/ZolPvYpx8AJ21rM9odTq6zJgujVot8s681C5TOiDUZWOb_J2w81zz7KSmxGGYyiKWIxFOMPOxRO0ZGsTVzq1zoFjqKX__VGuU7yVafvuxGZDoeFKku45fDxG5qk6" />
   </a>
