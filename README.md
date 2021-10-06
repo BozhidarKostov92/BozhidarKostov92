@@ -39,6 +39,5 @@ YouTube channel - https://www.youtube.com/channel/UCjc5O4jmngC8Fym-CNsaNDQ
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=BozhidarKostov92&count_private=true&true&hide=issues&show_icons=true" />
 </div>
 
-| 🎓 Certificates |
 | :-:
 | Currently studying |
