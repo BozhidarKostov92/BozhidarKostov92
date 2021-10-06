@@ -8,7 +8,7 @@
 
 <div align="left">
   <a href="https://www.sololearn.com/profile/11827871/?ref=app">
-    <img align="left" width="70px" src="https://lh3.googleusercontent.com/proxy/ZolPvYpx8AJ21rM9odTq6zJgujVot8s681C5TOiDUZWOb_J2w81zz7KSmxGGYyiKWIxFOMPOxRO0ZGsTVzq1zoFjqKX__VGuU7yVafvuxGZDoeFKku45fDxG5qk6" />
+    <img align="left" width="99px" src="https://lh3.googleusercontent.com/proxy/ZolPvYpx8AJ21rM9odTq6zJgujVot8s681C5TOiDUZWOb_J2w81zz7KSmxGGYyiKWIxFOMPOxRO0ZGsTVzq1zoFjqKX__VGuU7yVafvuxGZDoeFKku45fDxG5qk6" />
   </a>
   <br></br>
 <div align="left">
