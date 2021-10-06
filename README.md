@@ -16,7 +16,7 @@ YouTube channel - https://www.youtube.com/channel/UCjc5O4jmngC8Fym-CNsaNDQ
 
 <div align="center">
   <a href="https://mail.google.com/mail/u/0/#inbox">
-    <img align="center" width="50px" src="https://www.bulnews.bg/media/cache/article/uploads/16180e70d6d70b354ec63100e0ca5516.jpeg" />
+    <img align="center" width="30px" src="https://www.bulnews.bg/media/cache/article/uploads/16180e70d6d70b354ec63100e0ca5516.jpeg" />
   </a>
   <div align="center">
   <a href="https://www.facebook.com/GamingWithBuJo/">
