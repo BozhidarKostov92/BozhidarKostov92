@@ -14,6 +14,8 @@
   <a href="https://www.youtube.com/channel/UCjc5O4jmngC8Fym-CNsaNDQ">
     <img align="left" width="90px" src="https://www.techtipsmedia.com/wp-content/uploads/2018/01/new-youtube-logo-840x402.jpg" />
   </a>
+    <br></br>
+
   <br></br>
   <div align="left">
   <a href="https://www.facebook.com/GamingWithBuJo/">
