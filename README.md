@@ -37,11 +37,11 @@ YouTube channel - https://www.youtube.com/channel/UCjc5O4jmngC8Fym-CNsaNDQ
 </p>
 
 <div align="center">
-  <img height="140" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyubomirK99&layout=compact"/>
+  <img height="140" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BozhidarKostov92&layout=compact"/>
 </div>
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LyubomirK99&count_private=true&true&hide=issues&show_icons=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=BozhidarKostov92&count_private=true&true&hide=issues&show_icons=true" />
 </div>
 
 | 🎓 Certificates |
