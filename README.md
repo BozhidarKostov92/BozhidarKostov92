@@ -4,7 +4,8 @@
 - 💞️ 2022 Goals: Move to Sofia.
 - 
 - 📫 Connect with me:                
-- Email - bozhidar.kostov92@gmail.com
+ <img align="left" width="90px" src="https://www.bulnews.bg/media/cache/article/uploads/16180e70d6d70b354ec63100e0ca5516.jpeg" /> - bozhidar.kostov92@gmail.com
+
 <div align="left">
   <a href="https://www.sololearn.com/profile/11827871/?ref=app">
     <img align="left" width="90px" src="https://lh3.googleusercontent.com/proxy/ZolPvYpx8AJ21rM9odTq6zJgujVot8s681C5TOiDUZWOb_J2w81zz7KSmxGGYyiKWIxFOMPOxRO0ZGsTVzq1zoFjqKX__VGuU7yVafvuxGZDoeFKku45fDxG5qk6" />
