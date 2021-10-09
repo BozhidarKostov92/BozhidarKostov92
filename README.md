@@ -7,12 +7,12 @@
 
 <div align="left">
   <a href="https://www.sololearn.com/profile/11827871/?ref=app">
-    <img align="left" width="120px" src="https://lh3.googleusercontent.com/proxy/h8dxFyjNe6ER5YBQM94YNFmDIMUPreYFewYxHuIld6pr55XK1naVQXuqhJBNXGpW7c3uN_pu7JnubuVwutImIKG56F6Pd_Z_KeBURmynYVTsDqmV5ivex7Z2_2Dc" />
+    <img align="left" width="110px" src="https://lh3.googleusercontent.com/proxy/h8dxFyjNe6ER5YBQM94YNFmDIMUPreYFewYxHuIld6pr55XK1naVQXuqhJBNXGpW7c3uN_pu7JnubuVwutImIKG56F6Pd_Z_KeBURmynYVTsDqmV5ivex7Z2_2Dc" />
   </a>
   <br></br>
 <div align="left">
   <a href="https://www.youtube.com/channel/UCjc5O4jmngC8Fym-CNsaNDQ">
-    <img align="left" width="90px" src="https://www.techtipsmedia.com/wp-content/uploads/2018/01/new-youtube-logo-840x402.jpg" />
+    <img align="left" width="80px" src="https://www.techtipsmedia.com/wp-content/uploads/2018/01/new-youtube-logo-840x402.jpg" />
   </a>
   <br></br>
   <div align="left">
