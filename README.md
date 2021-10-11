@@ -7,7 +7,7 @@
 
 <div align="left">
   <a href="https://www.sololearn.com/profile/11827871/?ref=app">
-    <img align="left" width="110px" src="https://lh3.googleusercontent.com/proxy/h8dxFyjNe6ER5YBQM94YNFmDIMUPreYFewYxHuIld6pr55XK1naVQXuqhJBNXGpW7c3uN_pu7JnubuVwutImIKG56F6Pd_Z_KeBURmynYVTsDqmV5ivex7Z2_2Dc" />
+    <img align="left" width="110px" src="https://b24.am/en/pub/uploads/2018/09/maxresdefault_618022804.jpg" />
   </a>
   <br></br>
 <div align="left">
