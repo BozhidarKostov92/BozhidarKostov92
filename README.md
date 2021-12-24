@@ -1,7 +1,7 @@
 - 👋 Hello guys.
 - 👀 I am interested in programming languages.
-- 🌱 I am currently learning Java.
-
+- 🌱 I am currently learning Java & Android Studio.
+- 👀 I am currently making Games and App for Android.
 - 📫 Connect with me: 
 - Email - bozhidar.kostov92@gmail.com
 
