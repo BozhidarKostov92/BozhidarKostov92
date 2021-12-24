@@ -10,6 +10,10 @@
     <img align="left" width="70px" src="https://b24.am/en/pub/uploads/2018/09/maxresdefault_618022804.jpg" />
   </a>
   <br></br>
+  <div align="left">
+  <a href="https://www.sololearn.com/profile/11827871/?ref=app">
+    <img align="left" width="70px" src="https://b24.am/en/pub/uploads/2018/09/maxresdefault_618022804.jpg" />
+  </a>
 <div align="left">
   <a href="https://www.youtube.com/channel/UCjc5O4jmngC8Fym-CNsaNDQ">
     <img align="left" width="80px" src="https://www.techtipsmedia.com/wp-content/uploads/2018/01/new-youtube-logo-840x402.jpg" />
