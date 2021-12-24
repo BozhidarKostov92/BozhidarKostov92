@@ -5,8 +5,8 @@
 - 📫 Connect with me: 
 - Email - bozhidar.kostov92@gmail.com
 
-My App:<div align="left">
-  <a href="https://play.google.com/store/apps/details?id=com.bKostov.tictactoe"> 
+<div align="left">
+  <a href="https://play.google.com/store/apps/details?id=com.bKostov.tictactoe"> My Game: Tic Tac Toe
     <img align="left" width="70px" src="https://play-lh.googleusercontent.com/F5tnL1mQIJi303DnRZfapcv45YhrDFBRHPugpnSwl_Yl2o750zxrW7bTM--CkbLgIAg=s180-rw" />
   </a>
   <br></br> <br></br>
