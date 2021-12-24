@@ -12,7 +12,7 @@
   </a>
   <br></br> <br></br>
   <div align="left">
-  <a href="https://www.sololearn.com/profile/11827871/?ref=app">Sololearn<br>
+  <a href="https://www.sololearn.com/profile/11827871/?ref=app">Sololearn
     <img align="left" width="70px" src="https://b24.am/en/pub/uploads/2018/09/maxresdefault_618022804.jpg" />
   </a>
  <br></br>
