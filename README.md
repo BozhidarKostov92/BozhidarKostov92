@@ -12,20 +12,19 @@ My Apps so far:
   Inspirational Quotes<br>
     <img align="left" width="70px" src="https://play-lh.googleusercontent.com/Qx6U1itLs2LJuN25AKSO-yEDvCOagoJ9SVB2Y_vsemGHfEt95Gab48vSdWFbP_iHNio=w1920-h941-rw" />
   </a>
-  <br></br> <br></br> <br></br> <br></br> <br></br> <br></br> 
+  <br></br> <br></br> <br></br> <br></br> 
 <div align="left">
   <a href="https://play.google.com/store/apps/details?id=com.bKostov.tictactoe" > 
     Tic Tac Toe<br>
     <img align="left" width="70px" src="https://play-lh.googleusercontent.com/tLdJh4Iyxc8i_JTgejFL2b1rlwM3HRAzMIHIryDRqtAXqS4Zefj1ela9tPCroIU95jhY=w720-h310-rw" />
   </a>
-   <br></br> <br></br> <br></br> <br></br> <br></br> <br></br>
+   <br></br> <br></br> <br></br> <br></br>
   <div align="left">
   <a href="https://play.google.com/store/apps/details?id=com.bKostov.quadraticequation"> 
    QuadraticEquation<br>
     <img align="left" width="70px" src="https://play-lh.googleusercontent.com/Q7RamMthUxo51yPbeCcmUQO4LDOLWJBvs7nUFrPLsVMlrv1_SWDo7oewJ6bSb-f9pI0=s180-rw" />
   </a>
-   <br></br> <br></br> <br></br> <br></br> <br></br>
-
+   <br></br> <br></br>
   <div align="left">
   <a href="https://www.sololearn.com/profile/11827871/?ref=app">
     <img align="left" width="70px" src="https://b24.am/en/pub/uploads/2018/09/maxresdefault_618022804.jpg" />
