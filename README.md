@@ -1,10 +1,17 @@
 - 👋 Hello guys.
 - 👀 I am interested in programming languages.
 - 🌱 I am currently learning Java & Android Studio.
-- 👀 I am currently making Games and Apps for Android.
+- 👀 I am currently making Games and Apps for Android - https://play.google.com/store/apps/developer?id=B.+Kostov
 - 📫 Connect with me: 
 - Email - bozhidar.kostov92@gmail.com
 
+<div align="left">
+  <a href="https://play.google.com/store/apps/details?id=com.bkostov.motivation_positive_quotes"> 
+    My Game: Tic Tac Toe<br>
+    <img align="left" width="70px" src="https://play-lh.googleusercontent.com/Qx6U1itLs2LJuN25AKSO-yEDvCOagoJ9SVB2Y_vsemGHfEt95Gab48vSdWFbP_iHNio=w1920-h941-rw" />
+  </a>
+  <br></br><br></br>
+  
 <div align="left">
   <a href="https://play.google.com/store/apps/details?id=com.bKostov.tictactoe"> 
     My Game: Tic Tac Toe<br>
