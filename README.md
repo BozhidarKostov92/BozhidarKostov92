@@ -5,22 +5,24 @@
 - 📫 Connect with me: 
 - Email - bozhidar.kostov92@gmail.com
 
+My Apps so far:
+
 <div align="left">
   <a href="https://play.google.com/store/apps/details?id=com.bkostov.motivation_positive_quotes"> 
-    My Game: Tic Tac Toe<br>
+    Inspirational Quotes<br>
     <img align="left" width="70px" src="https://play-lh.googleusercontent.com/Qx6U1itLs2LJuN25AKSO-yEDvCOagoJ9SVB2Y_vsemGHfEt95Gab48vSdWFbP_iHNio=w1920-h941-rw" />
   </a>
   <br></br><br></br>
   
 <div align="left">
   <a href="https://play.google.com/store/apps/details?id=com.bKostov.tictactoe"> 
-    My Game: Tic Tac Toe<br>
+  Tic Tac Toe<br>
     <img align="left" width="70px" src="https://play-lh.googleusercontent.com/F5tnL1mQIJi303DnRZfapcv45YhrDFBRHPugpnSwl_Yl2o750zxrW7bTM--CkbLgIAg=s180-rw" />
   </a>
   <br></br><br></br>
   <div align="left">
   <a href="https://play.google.com/store/apps/details?id=com.bKostov.quadraticequation"> 
-    My App: QuadraticEquation<br>
+   QuadraticEquation<br>
     <img align="left" width="70px" src="https://play-lh.googleusercontent.com/Q7RamMthUxo51yPbeCcmUQO4LDOLWJBvs7nUFrPLsVMlrv1_SWDo7oewJ6bSb-f9pI0=s180-rw" />
   </a>
   <br></br><br></br>
