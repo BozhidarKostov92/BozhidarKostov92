@@ -12,13 +12,13 @@ My Apps so far:
   Inspirational Quotes<br>
     <img align="left" width="70px" src="https://play-lh.googleusercontent.com/Qx6U1itLs2LJuN25AKSO-yEDvCOagoJ9SVB2Y_vsemGHfEt95Gab48vSdWFbP_iHNio=w1920-h941-rw" />
   </a>
-  <br></br> <br></br> <br></br>
+  <br></br> <br></br> <br></br><br>
 <div align="left">
   <a href="https://play.google.com/store/apps/details?id=com.bKostov.tictactoe" > 
     Tic Tac Toe<br>
     <img align="left" width="70px" src="https://play-lh.googleusercontent.com/tLdJh4Iyxc8i_JTgejFL2b1rlwM3HRAzMIHIryDRqtAXqS4Zefj1ela9tPCroIU95jhY=w720-h310-rw" />
   </a>
-   <br></br> <br></br> <br></br>
+   <br></br> <br></br> <br></br><br>
   <div align="left">
   <a href="https://play.google.com/store/apps/details?id=com.bKostov.quadraticequation"> 
    QuadraticEquation<br>
