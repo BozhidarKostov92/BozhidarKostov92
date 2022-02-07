@@ -12,7 +12,8 @@ My Apps so far:
     Inspirational Quotes<br>
     <img align="left" width="70px" src="https://play-lh.googleusercontent.com/Qx6U1itLs2LJuN25AKSO-yEDvCOagoJ9SVB2Y_vsemGHfEt95Gab48vSdWFbP_iHNio=w1920-h941-rw" />
   </a>
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+  
+&emsp;&emsp;&emsp;&emsp;&emsp;
   
 <div align="left">
   <a href="https://play.google.com/store/apps/details?id=com.bKostov.tictactoe"> 
