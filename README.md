@@ -7,6 +7,13 @@
 
 My Apps so far:
 
+ul{
+   list-style-type:none;
+   margin:10px;
+   padding:10px;
+   text-align: center;
+}
+<ul>
 <div align="left">
   <a href="https://play.google.com/store/apps/details?id=com.bkostov.motivation_positive_quotes"> 
   Inspirational Quotes<br>
@@ -14,7 +21,7 @@ My Apps so far:
   </a>
   
 <div align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.bKostov.tictactoe" style="margin:auto"> 
+  <a href="https://play.google.com/store/apps/details?id=com.bKostov.tictactoe" > 
     Tic Tac Toe<br>
     <img align="left" width="70px" src="https://play-lh.googleusercontent.com/tLdJh4Iyxc8i_JTgejFL2b1rlwM3HRAzMIHIryDRqtAXqS4Zefj1ela9tPCroIU95jhY=w720-h310-rw" />
   </a>
@@ -26,7 +33,7 @@ My Apps so far:
     <img align="left" width="70px" src="https://play-lh.googleusercontent.com/Q7RamMthUxo51yPbeCcmUQO4LDOLWJBvs7nUFrPLsVMlrv1_SWDo7oewJ6bSb-f9pI0=s180-rw" />
   </a>
   <br></br><br></br>
-  
+  </ul>
   <div align="left">
   <a href="https://www.sololearn.com/profile/11827871/?ref=app">
     <img align="left" width="70px" src="https://b24.am/en/pub/uploads/2018/09/maxresdefault_618022804.jpg" />
@@ -55,3 +62,4 @@ My Apps so far:
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=BozhidarKostov92&count_private=true&true&hide=issues&show_icons=true" />
 </div>
+
