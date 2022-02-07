@@ -9,13 +9,13 @@ My Apps so far:
 
 <div align="left">
   <a href="https://play.google.com/store/apps/details?id=com.bkostov.motivation_positive_quotes"> 
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  Inspirational Quotes<br>
+  Inspirational Quotes<br>
     <img align="left" width="70px" src="https://play-lh.googleusercontent.com/Qx6U1itLs2LJuN25AKSO-yEDvCOagoJ9SVB2Y_vsemGHfEt95Gab48vSdWFbP_iHNio=w1920-h941-rw" />
   </a>
   
 <div align="left">
   <a href="https://play.google.com/store/apps/details?id=com.bKostov.tictactoe"> 
-  Tic Tac Toe<br>
+ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   Tic Tac Toe<br>
     <img align="left" width="70px" src="https://play-lh.googleusercontent.com/tLdJh4Iyxc8i_JTgejFL2b1rlwM3HRAzMIHIryDRqtAXqS4Zefj1ela9tPCroIU95jhY=w720-h310-rw" />
   </a>
   <br></br><br></br></br></br>
