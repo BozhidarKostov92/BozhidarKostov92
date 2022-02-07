@@ -14,7 +14,7 @@ My Apps so far:
   </a>
   
 <div align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.bKostov.tictactoe"> 
+  <a href="https://play.google.com/store/apps/details?id=com.bKostov.tictactoe" align="center"> 
     Tic Tac Toe<br>
     <img align="left" width="70px" src="https://play-lh.googleusercontent.com/tLdJh4Iyxc8i_JTgejFL2b1rlwM3HRAzMIHIryDRqtAXqS4Zefj1ela9tPCroIU95jhY=w720-h310-rw" />
   </a>
