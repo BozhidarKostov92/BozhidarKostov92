@@ -17,14 +17,12 @@ My Apps so far:
     Tic Tac Toe<br>
     <img align="center" width="70px" src="https://play-lh.googleusercontent.com/tLdJh4Iyxc8i_JTgejFL2b1rlwM3HRAzMIHIryDRqtAXqS4Zefj1ela9tPCroIU95jhY=w720-h310-rw" />
   </a>
-  <br></br><br></br></br></br>
   
   <div align="right">
   <a href="https://play.google.com/store/apps/details?id=com.bKostov.quadraticequation"> 
    QuadraticEquation<br>
     <img align="right" width="70px" src="https://play-lh.googleusercontent.com/Q7RamMthUxo51yPbeCcmUQO4LDOLWJBvs7nUFrPLsVMlrv1_SWDo7oewJ6bSb-f9pI0=s180-rw" />
   </a>
-  <br></br><br></br>
   
   <div align="left">
   <a href="https://www.sololearn.com/profile/11827871/?ref=app">
