@@ -2,6 +2,7 @@
 - 👀 I am interested in programming languages.
 - 🌱 I am currently learning Java & Android Studio.
 - 👀 I am currently making Games and Apps for Android - https://play.google.com/store/apps/developer?id=B.+Kostov
+- 🎮 In my free time I play Games(Streamer).
 - 📫 Connect with me: 
 - Email - bozhidar.kostov92@gmail.com
 
@@ -33,8 +34,15 @@ My Apps so far:
  
   <div align="left">
   <a href="https://www.facebook.com/GamingWithBuJo/">
+   My FB Page: <img align="left" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDdmJImfFmpK0XslRkKyNiA4Rfi74SoQPP7Rk6ysn6obSYkO4WIQ7BroLF0O9Hyl16a5Q&usqp=CAU" />
+  </a>
+   <br></br>
+ 
+  <div align="left">
+  <a href="  https://www.facebook.com/LastKiller92">
     <img align="left" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDdmJImfFmpK0XslRkKyNiA4Rfi74SoQPP7Rk6ysn6obSYkO4WIQ7BroLF0O9Hyl16a5Q&usqp=CAU" />
   </a>
+  
 </div>
 
 <br></br>
