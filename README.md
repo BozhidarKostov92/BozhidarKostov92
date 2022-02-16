@@ -26,21 +26,16 @@ My Apps so far:
     <img align="left" width="70px" src="https://play-lh.googleusercontent.com/Q7RamMthUxo51yPbeCcmUQO4LDOLWJBvs7nUFrPLsVMlrv1_SWDo7oewJ6bSb-f9pI0=s180-rw" />
   </a>
    <br></br> <br></br>
-  <div align="left">
-  <a href="https://www.sololearn.com/profile/11827871/?ref=app">
-    <img align="left" width="70px" src="https://b24.am/en/pub/uploads/2018/09/maxresdefault_618022804.jpg" />
-  </a>
- <br></br>
  
   <div align="left">
   <a href="https://www.facebook.com/GamingWithBuJo/">
-   My FB Page: <img align="left" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDdmJImfFmpK0XslRkKyNiA4Rfi74SoQPP7Rk6ysn6obSYkO4WIQ7BroLF0O9Hyl16a5Q&usqp=CAU" />
+   FB Profile: <img align="left" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDdmJImfFmpK0XslRkKyNiA4Rfi74SoQPP7Rk6ysn6obSYkO4WIQ7BroLF0O9Hyl16a5Q&usqp=CAU" />
   </a>
    <br></br>
  
   <div align="left">
   <a href="  https://www.facebook.com/LastKiller92">
-    <img align="left" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDdmJImfFmpK0XslRkKyNiA4Rfi74SoQPP7Rk6ysn6obSYkO4WIQ7BroLF0O9Hyl16a5Q&usqp=CAU" />
+   FB Page <img align="left" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDdmJImfFmpK0XslRkKyNiA4Rfi74SoQPP7Rk6ysn6obSYkO4WIQ7BroLF0O9Hyl16a5Q&usqp=CAU" />
   </a>
   
 </div>
