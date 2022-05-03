@@ -32,13 +32,3 @@ My Apps so far:
   <img align="left" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDdmJImfFmpK0XslRkKyNiA4Rfi74SoQPP7Rk6ysn6obSYkO4WIQ7BroLF0O9Hyl16a5Q&usqp=CAU" />
   </a>
 </div>
-   <br>
-<br>
-<br>
-<div>
-  <img  aling="right" height="140" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BozhidarKostov92&layout=compact"/>
-</div>
-<div>
-  <img  aling="right" height="160" src="https://github-readme-stats.vercel.app/api?username=BozhidarKostov92&count_private=true&true&hide=issues&show_icons=true" />
-</div>
-
