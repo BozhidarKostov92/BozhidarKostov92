@@ -1,5 +1,5 @@
 - 👋 Hello guys.
-- 👀 I am interested in programming languages.
+- 👀 I am interested in programming languages(C#, Java, PHP).
 - 🎮 In my free time I play Games.
 - 📫 Connect with me: 
 - Email - bozhidar.kostov92@gmail.com
