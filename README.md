@@ -1,6 +1,5 @@
 - 👋 Hello guys.
 - 👀 I am interested in programming languages.
-- 🌱 I am currently learning Java, C#, Unity & Android Studio.
 - 👀 I am currently making Games and Apps for Android - https://play.google.com/store/apps/developer?id=B.+Kostov
 - 🎮 In my free time I play Games.
 - 📫 Connect with me: 
