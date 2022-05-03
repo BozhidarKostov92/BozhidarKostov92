@@ -36,9 +36,9 @@ My Apps so far:
 <br>
 <br>
 <div>
-  <img  aling="center" height="140" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BozhidarKostov92&layout=compact"/>
+  <img  aling="right" height="140" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BozhidarKostov92&layout=compact"/>
 </div>
 <div>
-  <img  aling="center" height="160" src="https://github-readme-stats.vercel.app/api?username=BozhidarKostov92&count_private=true&true&hide=issues&show_icons=true" />
+  <img  aling="right" height="160" src="https://github-readme-stats.vercel.app/api?username=BozhidarKostov92&count_private=true&true&hide=issues&show_icons=true" />
 </div>
 
