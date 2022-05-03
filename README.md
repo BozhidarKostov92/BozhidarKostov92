@@ -35,10 +35,10 @@ My Apps so far:
    <br>
 <br>
 <br>
-<div>
+<div aling="center">
   <img height="140" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BozhidarKostov92&layout=compact"/>
 </div>
-<div>
+<div aling="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=BozhidarKostov92&count_private=true&true&hide=issues&show_icons=true" />
 </div>
 
