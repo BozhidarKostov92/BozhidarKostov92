@@ -12,21 +12,21 @@ My Apps so far:
     <img width="70px" src="https://play-lh.googleusercontent.com/Qx6U1itLs2LJuN25AKSO-yEDvCOagoJ9SVB2Y_vsemGHfEt95Gab48vSdWFbP_iHNio=w1920-h941-rw" />
   </a>
 </div>
-  <br><br>
+  <br>
 <div>
   <a href="https://play.google.com/store/apps/details?id=com.bKostov.tictactoe" > 
     Tic Tac Toe<br>
     <img width="70px" src="https://play-lh.googleusercontent.com/tLdJh4Iyxc8i_JTgejFL2b1rlwM3HRAzMIHIryDRqtAXqS4Zefj1ela9tPCroIU95jhY=w720-h310-rw" />
   </a>
 </div>
-   <br><br>
+   <br>
   <div>
   <a href="https://play.google.com/store/apps/details?id=com.bKostov.quadraticequation"> 
    QuadraticEquation<br>
     <img width="70px" src="https://play-lh.googleusercontent.com/Q7RamMthUxo51yPbeCcmUQO4LDOLWJBvs7nUFrPLsVMlrv1_SWDo7oewJ6bSb-f9pI0=s180-rw" />
   </a>
 </div>
-   <br><br>
+   <br>
   <div>
   <a href="https://www.facebook.com/GamingWithBuJo/">  FB Profile:<br>
   <img width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDdmJImfFmpK0XslRkKyNiA4Rfi74SoQPP7Rk6ysn6obSYkO4WIQ7BroLF0O9Hyl16a5Q&usqp=CAU" />
