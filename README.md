@@ -1,10 +1,10 @@
 Hello, I'm Bozhidar Kostov (BuJo)
-💻 Web Developer with 3 years of professional experience building dynamic and reliable web solutions.
-🛠️ Skilled in PHP, Symfony, JavaScript, Stimulus, MySQL, CSS, HTML, WordPress, and more.
-🎮 In my free time, I create mobile apps using React Native, Firebase, Google Analytics, and Expo.
-📫 Connect with me:
+💻 Web Developer with 3 years of professional experience building dynamic and reliable web solutions.<br>
+🛠️ Skilled in PHP, Symfony, JavaScript, Stimulus, MySQL, CSS, HTML, WordPress, and more.<br>
+🎮 In my free time, I create mobile apps using React Native, Firebase, Google Analytics, and Expo.<br>
+📫 Connect with me:<br>
 Email: bozhidar.kostov92@gmail.com
-
+<br>
 🔎 About Me
 I am looking for opportunities in web or mobile app development. Let's collaborate and bring your ideas to life!
 
