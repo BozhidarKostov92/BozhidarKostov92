@@ -36,7 +36,7 @@ My Apps so far:
   <br> https://play.google.com/store/apps/details?id=com.bkostov.emoji_cards_matching_game
 <div>
   <a href="https://play.google.com/store/apps/details?id=com.bKostov.quadraticequation"> 
-   QuadraticEquation<br>
+    QuadraticEquation <br>
     <img width="70px" src="https://play-lh.googleusercontent.com/Q7RamMthUxo51yPbeCcmUQO4LDOLWJBvs7nUFrPLsVMlrv1_SWDo7oewJ6bSb-f9pI0=s180-rw" />
   </a>
 </div>
