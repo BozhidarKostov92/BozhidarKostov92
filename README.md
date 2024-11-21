@@ -19,8 +19,7 @@ My Apps so far:
     <img width="70px" src="https://play-lh.googleusercontent.com/ZMMMk7v0UTXwQtfSC3mC7Fn-O8rMVhQZwLEZssiLFeA4BKTuzl1GP50kf1fhHvVscg=w240-h480-rw" />
   </a>
 </div>
-   <br>
-....
+   <br>....
 <div>
   <a href="https://play.google.com/store/apps/developer?id=B.+Kostov" > 
   Google Play Account<br>
