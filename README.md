@@ -1,7 +1,7 @@
 - 👋 Hello guys.
 - 💻 I work as a web developer.
 - 👀 I am interested in programming languages(PHP, Javascript & React Native).
-- 🎮 In my free time I play games.
+- 🎮 In my free time I create apps.
 - 📫 Connect with me:
 - Email - bozhidar.kostov92@gmail.com
 
@@ -38,11 +38,5 @@ My Apps so far:
   <a href="https://play.google.com/store/apps/details?id=com.bKostov.quadraticequation"> 
    QuadraticEquation<br>
     <img width="70px" src="https://play-lh.googleusercontent.com/Q7RamMthUxo51yPbeCcmUQO4LDOLWJBvs7nUFrPLsVMlrv1_SWDo7oewJ6bSb-f9pI0=s180-rw" />
-  </a>
-</div>
-   <br>
-  <div>
-  <a href="https://www.facebook.com/GamingWithBuJo/">  FB Profile:<br>
-  <img width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDdmJImfFmpK0XslRkKyNiA4Rfi74SoQPP7Rk6ysn6obSYkO4WIQ7BroLF0O9Hyl16a5Q&usqp=CAU" />
   </a>
 </div>
