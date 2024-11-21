@@ -5,6 +5,9 @@ Hello, I'm Bozhidar Kostov (BuJo)
 📫 Connect with me:
 Email: bozhidar.kostov92@gmail.com
 
+🔎 About Me
+I am looking for opportunities in web or mobile app development. Let's collaborate and bring your ideas to life!
+
 📱 My Apps:
 <div>
   <a href="https://play.google.com/store/apps/details?id=com.bKostov.sudoku_and_puzzle_king" > 
@@ -26,6 +29,3 @@ Email: bozhidar.kostov92@gmail.com
   </a>
 </div>
 Explore my growing portfolio of creative mobile applications.
-
-🔎 About Me
-I am looking for opportunities in web or mobile app development. Let's collaborate and bring your ideas to life!
