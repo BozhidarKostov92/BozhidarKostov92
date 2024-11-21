@@ -1,4 +1,4 @@
-🔎 I am looking for opportunities in web or mobile app development. Let's collaborate and bring your ideas to life!
+🔎 I am looking for opportunities in web or mobile app development. Let's collaborate and bring your ideas to life!<br>
 💻 Web Developer with 3 years of professional experience building dynamic and reliable web solutions.<br>
 🛠️ Skilled in PHP, Symfony, JavaScript, Stimulus, MySQL, CSS, HTML, WordPress, and more.<br>
 🎮 In my free time, I create mobile apps using React Native, Firebase, Google Analytics, and Expo.<br>
