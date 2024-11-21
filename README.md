@@ -22,7 +22,7 @@ I am looking for opportunities in web or mobile app development. Let's collabora
     <img width="70px" src="https://play-lh.googleusercontent.com/ZMMMk7v0UTXwQtfSC3mC7Fn-O8rMVhQZwLEZssiLFeA4BKTuzl1GP50kf1fhHvVscg=w240-h480-rw" />
   </a>
 </div>
-   <br>etc...
+   <br>
 <div>
   <a href="https://play.google.com/store/apps/developer?id=B.+Kostov" > 
  View All My Apps on Google Play<br>
